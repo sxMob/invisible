@@ -1,0 +1,7 @@
+local load = loadstring
+
+load(game:HttpGet(("https://raw.githubusercontent.com/sxMob/Invis/main/invis.lua"), true))()
+
+load(game:HttpGet(("https://raw.githubusercontent.com/sxMob/Library/main/LibLoader.lua"), true))()
+
+print("Enjoy!")
